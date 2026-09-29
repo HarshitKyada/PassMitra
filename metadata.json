@@ -1,0 +1,6 @@
+{
+  "name": "PassMitra - Ahmedabad Navratri Garba Pass Exchange",
+  "description": "Peer-to-peer ethical Navratri pass exchange in Ahmedabad. Safe physical handovers at statutory MRP with fair-price caps, proximity radar, and verified khelaiya trust.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
